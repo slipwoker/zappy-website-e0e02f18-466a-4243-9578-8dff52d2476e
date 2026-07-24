@@ -2,13 +2,13 @@
 
 Darkeinu Mashkantaot is a family-run mortgage consulting franchise specializing in the Israeli government's 'Mechir LaMishtaken' (affordable housing) program. The business is led by a husband-and-wife team: the husband handles mortgage portfolio strategy and financial advisory, while the wife manages all operations, bureaucracy, and the bank bidding process end-to-end. The brand emphasizes a warm, personal, and professional envelope — combining the trust of a family business with expert financial guidance. The landing page is a 'build-up' style pre-meeting page designed to warm up leads who have already scheduled a consultation, featuring client testimonials and a clear process explanation to arrive at the meeting informed and confident.
 
-Source: https://-e0e02f18.zappy5.app
+Source: https://example.com
 
 ---
 
 ## מלווים אתכם אל המפתח — דרכנו יחד משכנתאות
 
-URL: https://-e0e02f18.zappy5.app
+URL: https://example.com
 Description: משפחה שסוללת לכם את הדרך לדירה בהנחה. ייעוץ משכנתאות אישי, אסטרטגיה פיננסית וליווי מלא מול הבנקים. בואו לפגישה מוכנים ובטוחים.
 
 מלווים אתכם אל המפתח — דרכנו יחד משכנתאות
@@ -711,7 +711,7 @@ Description: משפחה שסוללת לכם את הדרך לדירה בהנחה.
 
 ## מדיניות פרטיות
 
-URL: https://-e0e02f18.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -969,7 +969,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://-e0e02f18.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -1236,7 +1236,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://-e0e02f18.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
@@ -1522,7 +1522,7 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 ## תודה שפניתם אלינו
 
-URL: https://-e0e02f18.zappy5.app/thank-you
+URL: https://example.com/thank-you
 Description: דרכנו יחד משכנתאות - תודה שפניתם אלינו
 
 תודה שפניתם אלינו
