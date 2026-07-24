@@ -777,10 +777,10 @@ body:has(.zappy-announcement-bar) main > section[class*="hero"]:first-of-type {
 <a class="skip-link" href="#main">דלג לתוכן הראשי</a>
   <nav class="navbar" dir="rtl">
   <button class="mobile-toggle" id="mobileToggle" aria-label="Menu">
-    <svg style="display:block !important" class="hamburger-icon" width="24" height="24" viewBox="0 0 24 24" fill="none">
+    <svg class="hamburger-icon" width="24" height="24" viewBox="0 0 24 24" fill="none">
       <path d="M3 12h18M3 6h18M3 18h18" stroke="currentColor" stroke-width="2" stroke-linecap="round"></path>
     </svg>
-    <svg class="close-icon" width="24" height="24" viewBox="0 0 24 24" fill="none" style="display:none !important">
+    <svg class="close-icon" width="24" height="24" viewBox="0 0 24 24" fill="none" style="display: none;">
       <path d="M18 6L6 18M6 6l12 12" stroke="currentColor" stroke-width="2" stroke-linecap="round"></path>
     </svg>
   </button>
@@ -1414,7 +1414,7 @@ body:has(.zappy-announcement-bar) main > section[class*="hero"]:first-of-type {
 
       <div class="index-process-section__steps">
         <!-- Step 1 -->
-        <div class="index-process-section__step">
+        <div class="index-process-section__step" data-grid-item-index="0">
           <div class="index-process-section__step-number">01</div>
           <div class="index-process-section__step-content">
             <h3 class="index-process-section__step-title">הבנת הסטטוס והפרויקט</h3>
@@ -1423,7 +1423,7 @@ body:has(.zappy-announcement-bar) main > section[class*="hero"]:first-of-type {
         </div>
 
         <!-- Step 2 -->
-        <div class="index-process-section__step">
+        <div class="index-process-section__step" data-grid-item-index="1">
           <div class="index-process-section__step-number">02</div>
           <div class="index-process-section__step-content">
             <h3 class="index-process-section__step-title">בניית אסטרטגיית משכנתא</h3>
@@ -1432,7 +1432,7 @@ body:has(.zappy-announcement-bar) main > section[class*="hero"]:first-of-type {
         </div>
 
         <!-- Step 3 -->
-        <div class="index-process-section__step">
+        <div class="index-process-section__step" data-grid-item-index="2">
           <div class="index-process-section__step-number">03</div>
           <div class="index-process-section__step-content">
             <h3 class="index-process-section__step-title">ניהול המסלול התפעולי</h3>
@@ -1441,20 +1441,26 @@ body:has(.zappy-announcement-bar) main > section[class*="hero"]:first-of-type {
         </div>
 
         <!-- Step 4 -->
-        <div class="index-process-section__step">
+        <div class="index-process-section__step" data-grid-item-index="3">
           <div class="index-process-section__step-number">04</div>
           <div class="index-process-section__step-content">
             <h3 class="index-process-section__step-title">הרצת מכרז בנקאי והחלטה</h3>
             <p class="index-process-section__step-desc">מריצים מכרז מול הבנקים, משווים הצעות ומובילים אתכם מחוסר ודאות להחלטה בטוחה ומושכלת.</p>
           </div>
         </div>
-      </div>
+      <div class="index-process-section__step" data-grid-item-index="4" style="grid-area: auto !important;">
+          <div class="index-process-section__step-number" style="cursor: text;">05</div>
+          <div class="index-process-section__step-content">
+            <h3 class="index-process-section__step-title" style="cursor: text;">ליווי עד קבלת המפתח</h3>
+            <p class="index-process-section__step-desc" style="cursor: text;">מריצים מכרז מול הבנקים, משווים הצעות ומובילים אתכם מחוסר ודאות להחלטה בטוחה ומושכלת.</p>
+          </div>
+        </div></div>
     </div>
 
     <!-- Map Panel (END/Left in RTL) -->
     <div class="index-process-section__map-panel">
       <div class="index-process-section__map-wrapper">
-        <img loading="lazy" decoding="async" data-placeholder="index-process-image-1" data-context="An illustrated parchment-style route map for a mortgage consulting business, showing a winding path connecting four landmarks: neighborhood blocks, a small bank building, a document icon, and a family home destination. The map has a warm peach wash over pale blue, hand-drawn style, soft gold destination markers, paper grain texture, and rounded organic corners. The style is editorial and warm, like a premium printed postcard." width="600" height="400" src="/assets/site-image-index-process-image-1.webp" alt="מפת מסלול מאוירת לתהליך ייעוץ משכנתאות" class="index-process-section__map-image" fetchpriority="low">
+        <img loading="lazy" decoding="async" data-placeholder="index-process-image-1" data-context="An illustrated parchment-style route map for a mortgage consulting business, showing a winding path connecting four landmarks: neighborhood blocks, a small bank building, a document icon, and a family home destination. The map has a warm peach wash over pale blue, hand-drawn style, soft gold destination markers, paper grain texture, and rounded organic corners. The style is editorial and warm, like a premium printed postcard." width="600" height="400" src="/assets/site-image-index-process-image-1.webp" alt="מפת מסלול מאוירת לתהליך ייעוץ משכנתאות" class="index-process-section__map-image" data-element-type="image" data-element-id="img-1784895151399-0pr1w76az" fetchpriority="low">
         
         <!-- Decorative Route Dots -->
         <svg class="index-process-section__route-dots" data-no-icon-edit="true" aria-hidden="true" viewBox="0 0 600 400" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
