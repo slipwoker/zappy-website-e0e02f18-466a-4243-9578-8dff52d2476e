@@ -1,0 +1,70 @@
+# דרכנו יחד משכנתאות — Generative Engine Optimization Map
+
+> Darkeinu Mashkantaot is a family-run mortgage consulting franchise specializing in the Israeli government's 'Mechir LaMishtaken' (affordable housing) program. The business is led by a husband-and-wife team: the husband handles mortgage portfolio strategy and financial advisory, while the wife manages all operations, bureaucracy, and the bank bidding process end-to-end. The brand emphasizes a warm, personal, and professional envelope — combining the trust of a family business with expert financial guidance. The landing page is a 'build-up' style pre-meeting page designed to warm up leads who have already scheduled a consultation, featuring client testimonials and a clear process explanation to arrive at the meeting informed and confident.
+
+---
+
+## Pages
+
+### בית
+https://-e0e02f18.zappy5.app
+משפחה שסוללת לכם את הדרך לדירה בהנחה. ייעוץ משכנתאות אישי, אסטרטגיה פיננסית וליווי מלא מול הבנקים. בואו לפגישה מוכנים ובטוחים.
+
+### תודה שפניתם אלינו
+https://-e0e02f18.zappy5.app/thank-you
+דרכנו יחד משכנתאות - תודה שפניתם אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://-e0e02f18.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-e0e02f18.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-e0e02f18.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-e0e02f18.zappy5.app
+- Endpoint: https://-e0e02f18.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About דרכנו יחד משכנתאות
+Darkeinu Mashkantaot is a family-run mortgage consulting franchise specializing in the Israeli government's 'Mechir LaMishtaken' (affordable housing) program. The business is led by a husband-and-wife team: the husband handles mortgage portfolio strategy and financial advisory, while the wife manages all operations, bureaucracy, and the bank bidding process end-to-end. The brand emphasizes a warm, personal, and professional envelope — combining the trust of a family business with expert financial guidance. The landing page is a 'build-up' style pre-meeting page designed to warm up leads who have already scheduled a consultation, featuring client testimonials and a clear process explanation to arrive at the meeting informed and confident.
+
+## Target Audience
+- לקוחות שזכו במחיר למשתכן דרך הזכיינות של דרכנו משכנתאות וכבר קבעו פגישת ייעוץ
+- לקוחות מחיר למשתכן
+- רוכשי דירה לראשונה
+
+## Industry
+Mortgage Consulting
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-e0e02f18.zappy5.app/sitemap.xml
+- Robots: https://-e0e02f18.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-e0e02f18.zappy5.app/llms-full.txt
