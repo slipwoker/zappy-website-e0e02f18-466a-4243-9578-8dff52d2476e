@@ -32,7 +32,10 @@ Information about WCAG compliance and accessibility features.
 
 ## How to Contact Us
 
-- (No contact details configured yet.)
+- Email: ndarcenu@gmail.com
+- Phone: +97258-760-5007
+- Phone (tel): tel:+972587605007
+- Address: ישראל
 
 ### Contact form
 - URL: https://example.com
