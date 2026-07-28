@@ -37,18 +37,6 @@ Information about WCAG compliance and accessibility features.
 - Phone (tel): tel:+972587605007
 - Address: ישראל
 
-### Contact form
-- URL: https://example.com
-- Endpoint: https://example.com/api/email/contact-form
-- Method: POST
-- Content-Type: application/json
-- Fields:
-  - `name` (text, required)
-  - `email` (email, required)
-  - `phone` (tel, required)
-  - `message` (textarea)
-  - `privacy_consent` (checkbox, required)
-
 ---
 
 # Business Context (for LLM understanding)
